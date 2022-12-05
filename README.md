@@ -21,5 +21,5 @@ shadowizerd({
 
 Shadowizerd supports 2 options, both of which are optional:
 
-* *shadow_type* - _herd | soft_ (Defaults to soft)
+* *shadow_type* - _hard | soft_ (Defaults to soft)
 * *padding* - _boolean_ (Defaults to false)
